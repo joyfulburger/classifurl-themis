@@ -6,5 +6,6 @@
 2. Flask package (pip install Flask)
 ```
 ### Starting the server
+```
 1. py app.py
-
+```
